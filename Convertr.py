@@ -1,6 +1,7 @@
 '''
 Convertr
 Colin Streck - colinstreck@gmail.com
+Currently only works in Python Idle Shell for me, which I'm trying to fix
 '''
 #Based on https://stackoverflow.com/a/23704144
 import subprocess
